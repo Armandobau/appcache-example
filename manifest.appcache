@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# v.1.0.1
+index.html
+
+CACHE:
+scripts/script.js
+styles/styles.css
+images/carpenterL.jpg
+images/carpenterM.jpg
+images/carpenterS.jpg
+images/carpenterXS.jpg
+images/profile.jpeg
+images/profile2.jpeg
+
+NETWORK:
+*
+
+FALLBACK:
+*
